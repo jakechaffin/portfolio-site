@@ -1,0 +1,29 @@
+[
+  {
+    "id": "task-tracker",
+    "title": "Task Tracker (Placeholder)",
+    "summary": "A productivity app with JWT authentication, protected routes, and full CRUD tasks.",
+    "stack": ["React", "Node.js", "Express", "MongoDB", "JWT"],
+    "image": "/images/checkmark.jpg",
+    "demo": "https://task-tracker-demo.vercel.app",
+    "repo": "https://github.com/jakechaffin/task-tracker"
+  },
+  {
+    "id": "av-scheduler",
+    "title": "AV Install Scheduler (Placeholder)",
+    "summary": "Tool for scheduling AV installations with booking UI and confirmation workflow.",
+    "stack": ["React", "Firebase Auth", "Firestore", "Tailwind CSS"],
+    "image": "/images/calendar_logo.jpg",
+    "demo": "https://av-scheduler-demo.vercel.app",
+    "repo": "https://github.com/jakechaffin/av-scheduler"
+  },
+  {
+    "id": "weather-app",
+    "title": "Weather Dashboard",
+    "summary": "Pulls live weather data from an API and displays it in a clean, responsive UI.",
+    "stack": ["React", "OpenWeather API", "Axios", "CSS Modules"],
+    "image": "/images/storm_cloud.jpg",
+    "demo": "https://weather-dashboard-demo.vercel.app",
+    "repo": "https://github.com/jakechaffin/weather-dashboard"
+  }
+]
